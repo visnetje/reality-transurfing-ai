@@ -13,6 +13,8 @@ The system is **model-agnostic** and works with:
 * Google Gemini
 * Local LLMs (Ollama, LM Studio, OpenWebUI)
 
+Based on / derived from the GPT by VRS: https://chatgpt.com/g/g-mDVFEKwPv-reality-transurfing
+
 ---
 
 ## 📂 Project Structure
